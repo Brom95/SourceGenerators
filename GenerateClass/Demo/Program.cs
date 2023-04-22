@@ -1,0 +1,1 @@
+﻿GeneratedNamespace.GeneratedClass.GeneratedMethod();
