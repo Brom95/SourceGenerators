@@ -1,0 +1,15 @@
+
+namespace TotalPrint
+{
+    public static class MegaPrintClass
+    {
+
+        public static void GeneratedMethod()
+        {
+            Console.WriteLine(@"123");
+Console.WriteLine(@"qwe");
+Console.WriteLine(@"WAAAAAGH!");
+
+        }
+    }
+}

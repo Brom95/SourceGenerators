@@ -1,0 +1,1 @@
+﻿TotalPrint.MegaPrintClass.GeneratedMethod();
